@@ -8,7 +8,7 @@ GHOSTTY_CONFIG_DIR="$HOME/.config/ghostty"
 GHOSTTY_THEMES_DIR="$GHOSTTY_CONFIG_DIR/themes"
 MAIN_CONFIG="$GHOSTTY_CONFIG_DIR/config"
 # The final local path for the theme file
-LOCAL_THEME_PATH="$GHOSTTY_THEMES_DIR/$THEME_NAME.conf"
+LOCAL_THEME_PATH="$GHOSTTY_THEMES_DIR/$THEME_NAME"
 
 echo "--- Initializing Ember Theme Setup (via curl) ---"
 
