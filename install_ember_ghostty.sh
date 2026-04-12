@@ -3,7 +3,7 @@
 # --- Configuration & Paths ---
 THEME_NAME="ember"
 # Replace this with the RAW URL of your theme file on GitHub
-THEME_URL="https://raw.githubusercontent.com/afrolino02/ghostty/main/themes/ember"
+THEME_URL="https://raw.githubusercontent.com/afrolino02/ghostty/refs/heads/main/ember"
 GHOSTTY_CONFIG_DIR="$HOME/.config/ghostty"
 GHOSTTY_THEMES_DIR="$GHOSTTY_CONFIG_DIR/themes"
 MAIN_CONFIG="$GHOSTTY_CONFIG_DIR/config"
