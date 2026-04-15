@@ -19,9 +19,35 @@
   <img src="assets/banner.png" alt="Ember — Dark, Soft, and Light variants" width="800" />
 </p>
 
-<p align="center">
-  <strong>Coming soon.</strong>
-</p>
+## Variants
+
+| Variant | Background | File |
+|---------|-----------|------|
+| **Ember** | `#1c1b19` — dark graphite | `ember.conf` |
+| **Ember Soft** | `#242320` — lifted graphite | `ember-soft.conf` |
+| **Ember Light** | `#e6dac4` — warm ivory | `ember-light.conf` |
+
+## Install
+
+Copy the theme files to your Ghostty config directory:
+
+```bash
+# Linux / macOS
+cp themes/*.conf ~/.config/ghostty/themes/
+```
+
+Then set the theme in your Ghostty config (`~/.config/ghostty/config`):
+
+```
+theme = ember
+```
+
+Or for other variants:
+
+```
+theme = ember-soft
+theme = ember-light
+```
 
 ## License
 
